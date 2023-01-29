@@ -16,7 +16,7 @@ Follow the instructions below, which can also be found at the `progator` Docker 
 
 #### Pulling Image
 
-Download automated build from public Docker Hub Registry:
+If you haven't done so already, download automated build from public Docker Hub Registry:
 
 `docker pull janyljumadinova/progator`
 
